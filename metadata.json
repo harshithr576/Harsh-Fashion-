@@ -1,0 +1,7 @@
+{
+  "name": "Harsh Fashion",
+  "description": "Premium Indian ethnic wear e-commerce experience featuring handpicked heritage collections and an AI-powered personal stylist.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
